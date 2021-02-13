@@ -1,12 +1,22 @@
 {
-  "name": "fitness",
-  "displayName": "fitness",
+  "name": "saadfitness",
+  "displayName": "saadfitness",
   "expo": {
-    "name": "fitness",
-    "slug": "fitness",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "sdkVersion": "40.0.0",
+    "orientation": "portrait",
+    "name": "SaadFitness",
+    "description": "The best triathlon tracker ever",
+    "slug": "saadfitness",
+    "version": "1.0",
+    "icon": "https://i.postimg.cc/rwK1Zmw0/logo192.png",
+    "notification": {
+      "icon": "https://i.postimg.cc/rwK1Zmw0/logo192.png"
+    },
+    "ios": {
+      "bundleIdentifier": "org.udacifitness.exp"
+    },
+    "android": {
+      "package": "org.udacifitness.exp"
+    }
   }
 }
