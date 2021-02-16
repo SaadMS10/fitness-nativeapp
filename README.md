@@ -1,4 +1,5 @@
-# fitness-nativeapp
+## fitness-nativeapp
 React Nano Degree Project
-## USE NPM INSTALL TO INSTALL THE DEPENDICIES
-## AND EXPO TO RUN IT
+# Clone The project and type npm-install to install the libraries that is used in this project
+# expo is used to run the app
+
